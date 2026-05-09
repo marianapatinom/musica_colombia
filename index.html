@@ -3,39 +3,168 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="refresh" content="0; url=dashboard/" />
     <title>Preferencias de genero musical en Colombia</title>
-    <style>
-      body {
-        margin: 0;
-        min-height: 100vh;
-        display: grid;
-        place-items: center;
-        color: #172033;
-        background: #f6f8fb;
-        font-family: Segoe UI, Roboto, Arial, sans-serif;
-      }
-
-      main {
-        width: min(560px, calc(100% - 32px));
-        padding: 28px;
-        border: 1px solid #d9e0ea;
-        border-radius: 8px;
-        background: white;
-        text-align: center;
-      }
-
-      a {
-        color: #295bdb;
-        font-weight: 700;
-      }
-    </style>
+    <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Ingenieria de datos</p>
+        <h1>Preferencias de genero musical en Colombia</h1>
+      </div>
+      <div class="actions">
+        <button id="refreshBtn" type="button" title="Actualizar datos">Actualizar</button>
+        <button id="csvBtn" type="button" title="Descargar datos limpios">CSV</button>
+        <button id="jsonBtn" type="button" title="Descargar capa analitica">JSON</button>
+      </div>
+    </header>
+
     <main>
-      <h1>Preferencias de genero musical en Colombia</h1>
-      <p>Redirigiendo al dashboard...</p>
-      <p><a href="dashboard/">Abrir dashboard</a></p>
+      <section class="status-band" aria-live="polite">
+        <div>
+          <span class="label">Fuente activa</span>
+          <strong id="sourceName">Buscando en datos.gov.co...</strong>
+        </div>
+        <div>
+          <span class="label">Ultima ejecucion</span>
+          <strong id="runTime">-</strong>
+        </div>
+        <div>
+          <span class="label">Estado</span>
+          <strong id="pipelineState">Iniciando</strong>
+        </div>
+      </section>
+
+      <section class="pipeline" aria-label="Etapas del pipeline">
+        <article>
+          <span>1</span>
+          <h2>Recoleccion</h2>
+          <p>Busca recursos del catalogo Socrata relacionados con musica, generos, artistas y espacios culturales.</p>
+        </article>
+        <article>
+          <span>2</span>
+          <h2>Ingesta</h2>
+          <p>Descarga JSON desde la API SODA y guarda una zona raw en el navegador.</p>
+        </article>
+        <article>
+          <span>3</span>
+          <h2>Limpieza</h2>
+          <p>Normaliza nombres de campos, quita duplicados y estandariza textos, fechas y ubicaciones.</p>
+        </article>
+        <article>
+          <span>4</span>
+          <h2>Transformacion</h2>
+          <p>Infiere generos musicales y calcula preferencias por departamento y ciudad.</p>
+        </article>
+        <article>
+          <span>5</span>
+          <h2>Consumo</h2>
+          <p>Publica metricas, graficos y datos descargables para analisis.</p>
+        </article>
+      </section>
+
+      <section class="kpis" aria-label="Indicadores principales">
+        <article>
+          <span>Preferencias calculadas</span>
+          <strong id="kpiRows">0</strong>
+        </article>
+        <article>
+          <span>Departamentos</span>
+          <strong id="kpiDepartments">0</strong>
+        </article>
+        <article>
+          <span>Municipios</span>
+          <strong id="kpiCities">0</strong>
+        </article>
+        <article>
+          <span>Genero lider</span>
+          <strong id="kpiQuality">0%</strong>
+        </article>
+      </section>
+
+      <section class="controls" aria-label="Filtros">
+        <label>
+          Departamento
+          <select id="departmentFilter">
+            <option value="">Todos</option>
+          </select>
+        </label>
+        <label>
+          Genero musical
+          <select id="typeFilter">
+            <option value="">Todos</option>
+          </select>
+        </label>
+        <label>
+          Busqueda
+          <input id="searchInput" type="search" placeholder="Ciudad, departamento, genero..." />
+        </label>
+      </section>
+
+      <section class="grid">
+        <article class="panel chart-panel">
+          <div class="panel-head">
+            <h2>Genero lider por departamento</h2>
+            <span id="deptTotal">0 departamentos</span>
+          </div>
+          <div id="departmentChart" class="bar-chart"></div>
+        </article>
+
+        <article class="panel chart-panel">
+          <div class="panel-head">
+            <h2>Distribucion nacional por genero</h2>
+            <span id="typeTotal">0 generos</span>
+          </div>
+          <div id="typeChart" class="donut-wrap">
+            <div class="donut" id="donutChart"></div>
+            <ul id="typeLegend"></ul>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Confianza del indicador</h2>
+            <span>Completitud de campos clave</span>
+          </div>
+          <div id="qualityChart" class="quality-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Resultado analitico</h2>
+            <span>Hallazgos del pipeline</span>
+          </div>
+          <ul id="insights" class="insights"></ul>
+        </article>
+      </section>
+
+      <section class="panel table-panel">
+        <div class="panel-head">
+          <h2>Tabla limpia de preferencias</h2>
+          <span id="tableCount">0 filas visibles</span>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th>Departamento</th>
+                <th>Ciudad/Municipio</th>
+                <th>Genero preferido</th>
+                <th>Menciones</th>
+                <th>Preferencia</th>
+                <th>Confianza</th>
+              </tr>
+            </thead>
+            <tbody id="dataTable"></tbody>
+          </table>
+        </div>
+      </section>
     </main>
+
+    <footer>
+      <p>Pipeline academico con busqueda automatica en Datos Abiertos Colombia. La preferencia se estima por menciones de generos musicales en registros publicos agregados por ciudad y departamento.</p>
+    </footer>
+
+    <script src="./app.js"></script>
   </body>
 </html>
