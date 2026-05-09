@@ -1,0 +1,4331 @@
+[
+  {
+    "departamento": "Sin dato",
+    "municipio": "Bucaramanga",
+    "genero": "Clasica",
+    "menciones": 77,
+    "preferencia": 27,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Bucaramanga",
+    "genero": "Salsa",
+    "menciones": 57,
+    "preferencia": 20,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Bucaramanga",
+    "genero": "Musica popular",
+    "menciones": 57,
+    "preferencia": 20,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Bucaramanga",
+    "genero": "Folclor",
+    "menciones": 42,
+    "preferencia": 15,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Bucaramanga",
+    "genero": "Reggaeton",
+    "menciones": 39,
+    "preferencia": 14,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Calima",
+    "genero": "Salsa",
+    "menciones": 20,
+    "preferencia": 61,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Clasica",
+    "menciones": 15,
+    "preferencia": 32,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Sibate",
+    "genero": "Clasica",
+    "menciones": 12,
+    "preferencia": 86,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Bucaramanga",
+    "genero": "Rock",
+    "menciones": 11,
+    "preferencia": 4,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Floridablanca",
+    "genero": "Reggaeton",
+    "menciones": 8,
+    "preferencia": 28,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Policarpa",
+    "genero": "Llanera",
+    "menciones": 7,
+    "preferencia": 70,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Medellin",
+    "genero": "Clasica",
+    "menciones": 7,
+    "preferencia": 41,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sucre",
+    "municipio": "Corozal",
+    "genero": "Clasica",
+    "menciones": 6,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "San Jose De Cucuta",
+    "genero": "Clasica",
+    "menciones": 6,
+    "preferencia": 55,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Calima",
+    "genero": "Folclor",
+    "menciones": 6,
+    "preferencia": 18,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Llanera",
+    "menciones": 6,
+    "preferencia": 13,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Electronica",
+    "menciones": 6,
+    "preferencia": 13,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Villavicencio",
+    "genero": "Clasica",
+    "menciones": 5,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Barranquilla",
+    "genero": "Clasica",
+    "menciones": 5,
+    "preferencia": 36,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Medellin",
+    "genero": "Musica popular",
+    "menciones": 5,
+    "preferencia": 29,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Floridablanca",
+    "genero": "Salsa",
+    "menciones": 5,
+    "preferencia": 17,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Floridablanca",
+    "genero": "Musica popular",
+    "menciones": 5,
+    "preferencia": 17,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Floridablanca",
+    "genero": "Clasica",
+    "menciones": 5,
+    "preferencia": 17,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Folclor",
+    "menciones": 5,
+    "preferencia": 11,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Reggaeton",
+    "menciones": 5,
+    "preferencia": 11,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Puerto Gaitan",
+    "genero": "Cumbia",
+    "menciones": 4,
+    "preferencia": 57,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Cartagena De Indias",
+    "genero": "Folclor",
+    "menciones": 4,
+    "preferencia": 36,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Cartagena De Indias",
+    "genero": "Clasica",
+    "menciones": 4,
+    "preferencia": 36,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Floridablanca",
+    "genero": "Folclor",
+    "menciones": 4,
+    "preferencia": 14,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Calima",
+    "genero": "Reggaeton",
+    "menciones": 4,
+    "preferencia": 12,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Rovira",
+    "genero": "Folclor",
+    "menciones": 3,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Magdalena",
+    "municipio": "Santa Marta",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Barrancabermeja",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Putumayo",
+    "municipio": "Puerto Asis",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Caucasia",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Hato Corozal",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Ocana",
+    "genero": "Folclor",
+    "menciones": 3,
+    "preferencia": 75,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Buenaventura",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 75,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Neiva",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 75,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Monteria",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 60,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Popayan",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 60,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "La Ceja",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Choco",
+    "municipio": "Quibdo",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "Florencia",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tunja",
+    "genero": "Musica popular",
+    "menciones": 3,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Piedecuesta",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 43,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Bucaramanga",
+    "genero": "Reggaeton",
+    "menciones": 3,
+    "preferencia": 38,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Giron",
+    "genero": "Reggaeton",
+    "menciones": 3,
+    "preferencia": 30,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Clasica",
+    "menciones": 3,
+    "preferencia": 27,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Salsa",
+    "menciones": 3,
+    "preferencia": 27,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Barranquilla",
+    "genero": "Folclor",
+    "menciones": 3,
+    "preferencia": 21,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Barranquilla",
+    "genero": "Electronica",
+    "menciones": 3,
+    "preferencia": 21,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Hip hop",
+    "menciones": 3,
+    "preferencia": 6,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Cumbia",
+    "menciones": 3,
+    "preferencia": 6,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Planadas",
+    "genero": "Cumbia",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Yaguara",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Espinal",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tuta",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Garzon",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Magdalena",
+    "municipio": "El Banco",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Anolaima",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Putumayo",
+    "municipio": "Mocoa",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Roldanillo",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Caparrapi",
+    "genero": "Hip hop",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Coromoro",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Oporapa",
+    "genero": "Hip hop",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Turbana",
+    "genero": "Reggaeton",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Sabanagrande",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "San Martin",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 67,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Andalucia",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 67,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Sogamoso",
+    "genero": "Salsa",
+    "menciones": 2,
+    "preferencia": 67,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sucre",
+    "municipio": "Sincelejo",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 67,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Guaviare",
+    "municipio": "San Jose Del Guaviare",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 67,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Gigante",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Mesetas",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Mesetas",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Falan",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "El Carmen De Viboral",
+    "genero": "Electronica",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Cordoba",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Ipiales",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cesar",
+    "municipio": "Valledupar",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "Riohacha",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Samaca",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Apartado",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "San Andres De Tumaco",
+    "genero": "Pacifico",
+    "menciones": 2,
+    "preferencia": 40,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "San Andres De Tumaco",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 40,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ibague",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 40,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Manizales",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 40,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Popayan",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 40,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ibague",
+    "genero": "Cumbia",
+    "menciones": 2,
+    "preferencia": 40,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "La Ceja",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Choco",
+    "municipio": "Quibdo",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tunja",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Pasto",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Pasto",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Piedecuesta",
+    "genero": "Reggaeton",
+    "menciones": 2,
+    "preferencia": 29,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Bucaramanga",
+    "genero": "Musica popular",
+    "menciones": 2,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Bucaramanga",
+    "genero": "Clasica",
+    "menciones": 2,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Policarpa",
+    "genero": "Reggaeton",
+    "menciones": 2,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Villavicencio",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Villavicencio",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Giron",
+    "genero": "Salsa",
+    "menciones": 2,
+    "preferencia": 20,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Giron",
+    "genero": "Musica popular",
+    "menciones": 2,
+    "preferencia": 20,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Giron",
+    "genero": "Folclor",
+    "menciones": 2,
+    "preferencia": 20,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "San Jose De Cucuta",
+    "genero": "Electronica",
+    "menciones": 2,
+    "preferencia": 18,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "San Jose De Cucuta",
+    "genero": "Musica popular",
+    "menciones": 2,
+    "preferencia": 18,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Barranquilla",
+    "genero": "Musica popular",
+    "menciones": 2,
+    "preferencia": 14,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Medellin",
+    "genero": "Salsa",
+    "menciones": 2,
+    "preferencia": 12,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Medellin",
+    "genero": "Llanera",
+    "menciones": 2,
+    "preferencia": 12,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Floridablanca",
+    "genero": "Rock",
+    "menciones": 2,
+    "preferencia": 7,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Musica popular",
+    "menciones": 2,
+    "preferencia": 4,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Tenjo",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Sasaima",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "El Rosal",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Sesquile",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Putumayo",
+    "municipio": "Villagarzon",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Paz De Rio",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "La Mesa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Cuaspud Carlosama",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Valencia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Caicedonia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Frontino",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Santo Domingo",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "San Pablo De Borbur",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Venecia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Zipaquira",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Choco",
+    "municipio": "Bajo Baudo",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Caicedo",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Salgar",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "San Jeronimo",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Galapa",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Chinavita",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Facatativa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Guatavita",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Santa Rosa Del Sur",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "Cartagena Del Chaira",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Mutata",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Chivor",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Choachi",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Caramanta",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Baranoa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Ramiriqui",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Choconta",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Sopetran",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "Puerto Rico",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Sutatausa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Anzoategui",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Victoria",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "Villanueva",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Angelopolis",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Cucaita",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "La Belleza",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Simacota",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Bojaca",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Pitalito",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Circasia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Coyaima",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Sativanorte",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Santacruz",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Malaga",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sucre",
+    "municipio": "Morroa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Repelon",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sucre",
+    "municipio": "Coloso",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Pupiales",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "El Cocuy",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Putumayo",
+    "municipio": "Valle Del Guamuez",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Santa Catalina",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Abrego",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Carepa",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Turbo",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "El Bagre",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Puerto Triunfo",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "San Juan Del Cesar",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Archipielago De San Andres, Providencia Y Santa Catalina",
+    "municipio": "San Andres",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Arauca",
+    "municipio": "Arauca",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Tierralta",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Magangue",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Sabanalarga",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Yopal",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Villa Del Rosario",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Cepita",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Los Santos",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Macanal",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "La Playa",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Fusagasuga",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Miraflores",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Santa Rosa De Osos",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Samana",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Magdalena",
+    "municipio": "Algarrobo",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Risaralda",
+    "municipio": "Dosquebradas",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Candelaria",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "San Carlos",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Valle De San Jose",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "La Montanita",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Jambalo",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Tulua",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Santander De Quilichao",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Puerto Lopez",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Quimbaya",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "El Guacamayo",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Planeta Rica",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Sativasur",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Mongua",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Lopez De Micay",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Palestina",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Firavitoba",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Donmatias",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Sabanalarga",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Anza",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Mapiripan",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Umbita",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "El Tambo",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Cumbal",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Amazonas",
+    "municipio": "Tarapaca (Anm)",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Tuchin",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Barichara",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Salamina",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Aguadas",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Pijao",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Ponedera",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tota",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Paicol",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Natagaima",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Raquira",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Pacora",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cesar",
+    "municipio": "Becerril",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Barbosa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Sabana De Torres",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Alcala",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Zipacon",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "San Carlos De Guaroa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Betulia",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Pamplonita",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "El Penon",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Curiti",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Gramalote",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Boavita",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Riosucio",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Caldono",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Susa",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Iles",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ambalema",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Turbaco",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Fuquene",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "San Luis De Palenque",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Purisima De La Concepcion",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Nocaima",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Archipielago De San Andres, Providencia Y Santa Catalina",
+    "municipio": "Providencia",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Choco",
+    "municipio": "Novita",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 100,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Santa Isabel",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Santa Isabel",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Cucutilla",
+    "genero": "Salsa",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Funza",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Funza",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "La Union",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "La Union",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Ricaurte",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Honda",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Honda",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Iza",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Iza",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Tocancipa",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Tocancipa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "El Carmen De Chucuri",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "El Carmen De Chucuri",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Mutiscua",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Mutiscua",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "San Antonio",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "San Antonio",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "El Molino",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "El Molino",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Lerida",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Anserma",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "El Paujil",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "El Paujil",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Belmira",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Belmira",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Sonson",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Guican De La Sierra",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Guican De La Sierra",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Guaduas",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Amazonas",
+    "municipio": "Leticia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Gacheta",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Gacheta",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Pamplona",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tenza",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tenza",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Putumayo",
+    "municipio": "Sibundoy",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Putumayo",
+    "municipio": "Sibundoy",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Cachipay",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Cachipay",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "La Plata",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "La Plata",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Florida",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Vijes",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Vijes",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Ebejico",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Ebejico",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Pore",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Pore",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Guasca",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Guasca",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Chaparral",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Ituango",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Ituango",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Cucutilla",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Villahermosa",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Villahermosa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Pueblorrico",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Pueblorrico",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Saboya",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Saboya",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Agua De Dios",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Agua De Dios",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Soplaviento",
+    "genero": "Salsa",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Soplaviento",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Granada",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Granada",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "El Carmen De Bolivar",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "El Carmen De Bolivar",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Bello",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Corrales",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Corrales",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "La Capilla",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "La Capilla",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Amazonas",
+    "municipio": "Leticia",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Envigado",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Envigado",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Guaduas",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Chaparral",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Cajica",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Bello",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Yumbo",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Yumbo",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Girardot",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Miranda",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Santa Barbara",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Santa Barbara",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Lerida",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Pamplona",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Amazonas",
+    "municipio": "Puerto Narino",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Amazonas",
+    "municipio": "Puerto Narino",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Miranda",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Florida",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Puerto Wilches",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Puerto Wilches",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Sonson",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Chiquinquira",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Ricaurte",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Anserma",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Chiquinquira",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Cajica",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Girardot",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Olaya Herrera",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Olaya Herrera",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Salento",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Salento",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Balboa",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cauca",
+    "municipio": "Balboa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 50,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "San Martin",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Rionegro",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Rionegro",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Chia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Tamara",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Tamara",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Tamara",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Andalucia",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Guaviare",
+    "municipio": "San Jose Del Guaviare",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Fuentedeoro",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Fuentedeoro",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Fuentedeoro",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Remedios",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Remedios",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Remedios",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Sogamoso",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sucre",
+    "municipio": "Sincelejo",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Aguazul",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Aguazul",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Casanare",
+    "municipio": "Aguazul",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Rionegro",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Risaralda",
+    "municipio": "Pereira",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Gualmatan",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Gualmatan",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Jenesano",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Jenesano",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Jenesano",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Risaralda",
+    "municipio": "Pereira",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Chia",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Chia",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Risaralda",
+    "municipio": "Pereira",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Gualmatan",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Otro",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Otro",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Otro",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 33,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Gigante",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Gigante",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Falan",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "El Carmen De Viboral",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Cordoba",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Quindio",
+    "municipio": "Cordoba",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cesar",
+    "municipio": "Valledupar",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Arauca",
+    "municipio": "Tame",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Arauca",
+    "municipio": "Tame",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Huila",
+    "municipio": "Neiva",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Paipa",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Paipa",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Paipa",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "Ocana",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Falan",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Apartado",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Apartado",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Samaca",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Samaca",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cesar",
+    "municipio": "Valledupar",
+    "genero": "Vallenato",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "El Carmen De Viboral",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Arauca",
+    "municipio": "Tame",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Arauca",
+    "municipio": "Tame",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Ipiales",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "Riohacha",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Paipa",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Ipiales",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Buenaventura",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "La Guajira",
+    "municipio": "Riohacha",
+    "genero": "Vallenato",
+    "menciones": 1,
+    "preferencia": 25,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ortega",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ortega",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ortega",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ortega",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ortega",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Manizales",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Soacha",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Soacha",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Tolima",
+    "municipio": "Ibague",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Soacha",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Soacha",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Soacha",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Manizales",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Monteria",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cordoba",
+    "municipio": "Monteria",
+    "genero": "Champeta",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "San Andres De Tumaco",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caldas",
+    "municipio": "Manizales",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 20,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "La Ceja",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Choco",
+    "municipio": "Quibdo",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Palmira",
+    "genero": "Salsa",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Palmira",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Palmira",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "Florencia",
+    "genero": "Salsa",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "Florencia",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Caqueta",
+    "municipio": "Florencia",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Pasto",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Pasto",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Boyaca",
+    "municipio": "Tunja",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Palmira",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Palmira",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Palmira",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 17,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Puerto Gaitan",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 14,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Puerto Gaitan",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 14,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Puerto Gaitan",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 14,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Piedecuesta",
+    "genero": "Salsa",
+    "menciones": 1,
+    "preferencia": 14,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Piedecuesta",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 14,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Santander",
+    "municipio": "Bucaramanga",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 13,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Meta",
+    "municipio": "Villavicencio",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 10,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Narino",
+    "municipio": "Policarpa",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 10,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Sin dato",
+    "municipio": "Giron",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 10,
+    "confianza": 67,
+    "fuentes": "CARACTERIZACION ESTUDIANTES ADMITIDOS ESCUELA MUNICIPAL DE ARTES Y OFICIO DE BUCARAMANGA"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Cartagena De Indias",
+    "genero": "Champeta",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Cartagena De Indias",
+    "genero": "Electronica",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Santiago De Cali",
+    "genero": "Pacifico",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Norte De Santander",
+    "municipio": "San Jose De Cucuta",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bolivar",
+    "municipio": "Cartagena De Indias",
+    "genero": "Cumbia",
+    "menciones": 1,
+    "preferencia": 9,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Sibate",
+    "genero": "Folclor",
+    "menciones": 1,
+    "preferencia": 7,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Cundinamarca",
+    "municipio": "Sibate",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 7,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Atlantico",
+    "municipio": "Barranquilla",
+    "genero": "Llanera",
+    "menciones": 1,
+    "preferencia": 7,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Antioquia",
+    "municipio": "Medellin",
+    "genero": "Reggaeton",
+    "menciones": 1,
+    "preferencia": 6,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Calima",
+    "genero": "Musica popular",
+    "menciones": 1,
+    "preferencia": 3,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Calima",
+    "genero": "Hip hop",
+    "menciones": 1,
+    "preferencia": 3,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Valle Del Cauca",
+    "municipio": "Calima",
+    "genero": "Clasica",
+    "menciones": 1,
+    "preferencia": 3,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Salsa",
+    "menciones": 1,
+    "preferencia": 2,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  },
+  {
+    "departamento": "Bogota, D. C.",
+    "municipio": "Bogota, D.C.",
+    "genero": "Rock",
+    "menciones": 1,
+    "preferencia": 2,
+    "confianza": 100,
+    "fuentes": "Espacios de las Artes, las Culturas y los Saberes"
+  }
+]
